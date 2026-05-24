@@ -1,7 +1,7 @@
 # 
 
 <p align="center">
-  <img src="ayanokoji.jpg" width="100%" alt="Kiyotaka Ayanokoji" />
+  <img src="ayanokoji.gif" width="100%" alt="Kiyotaka Ayanokoji" />
 </p>
 
 <h1 align="center"> ─── [ Kiyotaka Ayanokoji ] ─── </h1>
