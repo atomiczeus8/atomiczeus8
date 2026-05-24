@@ -1,7 +1,7 @@
 # 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anand-Subramanian/Anand-Subramanian/main/assets/classroom-of-the-elite-ayanokoji.gif" width="100%" alt="Kiyotaka Ayanokoji" />
+  <img src="ayanokoji.jpg" width="100%" alt="Kiyotaka Ayanokoji" />
 </p>
 
 <h1 align="center"> ─── [ Kiyotaka Ayanokoji ] ─── </h1>
@@ -30,8 +30,8 @@ A tool is only as good as the one wielding it. Here is my current stack and what
 Just data. Tracking progress and efficiency across repositories.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atomiczeus8&show_icons=true&theme=dark" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomiczeus8&layout=compact&theme=dark" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=atomiczeus8&show_icons=true&theme=dark" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=atomiczeus8&layout=compact&theme=dark" alt="Top Languages" height="160" />
 </p>
 
 ---
