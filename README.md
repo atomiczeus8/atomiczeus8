@@ -1,7 +1,7 @@
 # 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atomiczeus8/atomiczeus8/main/mambo.gif" width="220px" alt="Mambo Matikane Tannhauser Chibi" />
+  <img src="https://raw.githubusercontent.com/atomiczeus8/atomiczeus8/main/mambohello.gif" width="220px" alt="Mambo Matikane Tannhauser Chibi" />
 </p>
 
 <h1 align="center"> ─── [ Zeus ] ─── </h1>
