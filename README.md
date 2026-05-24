@@ -1,7 +1,7 @@
 # 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atomiczeus8/atomiczeus8/main/zeus.gif" width="450px" alt="Kenyu Yukimiya" />
+  <img src="https://raw.githubusercontent.com/atomiczeus8/atomiczeus8/main/mambo.gif" width="220px" alt="Mambo Matikane Tannhauser Chibi" />
 </p>
 
 <h1 align="center"> ─── [ Zeus ] ─── </h1>
