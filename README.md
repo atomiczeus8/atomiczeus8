@@ -1,10 +1,10 @@
 # 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atomiczeus8/atomiczeus8/main/ayanokoji.jpg" width="100%" alt="Kiyotaka Ayanokoji" />
+  <img src="https://raw.githubusercontent.com/atomiczeus8/atomiczeus8/main/yukimiya.gif" width="100%" alt="Kenyu Yukimiya" />
 </p>
 
-<h1 align="center"> ─── [ Kiyotaka Ayanokoji ] ─── </h1>
+<h1 align="center"> ─── [ Zeus ] ─── </h1>
 
 > "That's right. As long as I win in the end... that's all that matters."
 
