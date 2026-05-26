@@ -33,22 +33,5 @@ Just data. Tracking progress and efficiency across repositories.
 ---
 
 <p align="center">
-  <svg width="400" height="50" viewBox="0 0 400 50" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      @keyframes flicker {
-        0%, 18%, 22%, 25%, 53%, 57%, 100% { opacity: 1; filter: drop-shadow(0 0 8px #00F5D4); }
-        20%, 24%, 55% { opacity: 0.3; filter: none; }
-      }
-      .flicker-text {
-        font-family: 'Fira Code', Consolas, monospace;
-        font-weight: 700;
-        font-size: 20px;
-        fill: #00F5D4;
-        animation: flicker 3s infinite;
-      }
-    </style>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="flicker-text">
-      IT'S JUST THE BEGINNING...
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=50&color=00F5D4&center=true&vCenter=true&width=500&height=50&lines=IT'S+JUST+THE+BEGINNING...;IT'S+J%23ST+TH%25+B%40GINNING...;IT'S+JU%24T+THE+BEG%26NNING...;IT'S+JUST+THE+BEGINNING...;%5B%23%40%24%25%26%2A%21%5D...;IT'S+JUST+THE+BEGINNING..." alt="Glitch Text" />
 </p>
