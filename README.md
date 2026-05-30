@@ -1,28 +1,23 @@
 <p align="center">
-  <img src="light-yagami-death-note.gif" width="220px" style="border-radius: 4px; filter: grayscale(30%) contrast(110%);" alt="Kira Protocol" />
+  <img src="light-yagami-death-note.gif" width="180px" alt="Kira" />
 </p>
 
-<h1 align="center">
-  <kbd> SYSTEM.EXE // Z E U S </kbd>
-</h1>
+<h1 align="center">𝖅 𝕰 𝖀 𝕾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&pause=80&color=FF3333&center=true&vCenter=true&width=450&height=35&lines=DELETE.+DELETE.+DELETE...;CREATING+A+NEW+WORLD...;BY+ANY+MEANS+NECESSARY.;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%89%E2%96%91%E2%96%91%5D+91%25" alt="Terminal Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=60&color=B10000&center=true&vCenter=true&width=450&height=35&lines=I'll+take+a+potato+chip...;...AND+EAT+IT!;Writing+names+in+low-level...;%5B%23%40%24%25%26%2A%21%5D..." alt="Terminal" />
 </p>
 
-<p align="center">
-  <ins><i>"Humans are so interesting."</i></ins>
-</p>
+<p align="center"><i>"The real world is waiting for us."</i></p>
 
-<p align="center">─── ❖ ── ✦ ── ❖ ───</p>
+---
 
-<p align="center">⚡ <b>CORE STACK</b> ⚡</p>
+<p align="center"><b>─── [ ARSENAL ] ───</b></p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql" alt="Arsenal" />
+  <img src="https://skillicons.dev/icons?i=py,mysql" alt="Stack" />
 </p>
 
 ```text
-[EXECUTION ENGINE]
-├── ⚙️ Architecture: Luau, Python, Low-level C controls
-├── 🛡️ Data Ops    : Complex backend systems & high-concurrency memory management
-└── 🖥️ Environment : Advanced UI/UX, customized constraints, absolute runtime control
+• Pure scripting, custom interface mechanics, and data structures.
+• Lower-level architecture manipulation via C.
