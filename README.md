@@ -14,7 +14,7 @@
 
 ---
 
-### ◆ STACK & PIPELINE
+### 🪐 SYSTEM ARSENAL
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,mysql" alt="Tech Stack" />
