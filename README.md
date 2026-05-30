@@ -24,14 +24,14 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/atomiczeus8" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  <a href="https://instagram.com/atomiczeus8" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" valign="middle" />
   </a>
-  <a href="mailto:atomizeus8@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  <a href="mailto:atomizeus8@gmail.com" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" valign="middle" />
   </a>
-  <a href="https://twitter.com/atomiczeus8" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X / Twitter" />
+  <a href="https://twitter.com/atomiczeus8" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-%23000000?style=square&logo=x&logoColor=white&background=black" alt="X" height="50px" valign="middle" />
   </a>
 </p>
 
