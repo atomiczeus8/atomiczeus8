@@ -40,7 +40,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="42" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/atomiczeus8" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/clintecker/clintecker-logos/x/x-logo-black-square.png" alt="X" width="42" height="42" style="border-radius: 20%;" />
-  </a>
-</p>
+  <a href="https://twitter.com/atomiczeus8" target="_blank" style="display: inline-block; vertical-align: middle;">
+    <svg width="42" height="42" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg" style="background-color: #111111; border-radius: 22%; padding: 9px; box-sizing: border-box;">
+      <path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L6
