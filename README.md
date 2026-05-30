@@ -16,29 +16,25 @@
 <hr>
 <br>
 
-<p align="left"><b>🪐 ── [ SYSTEM ARSENAL ] ──</b></p>
+<p align="left"><b> ─── [ SYSTEM ARSENAL ] ─── </b></p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,mysql" alt="Tech Stack" />
 </p>
 
 <p align="left">
-  <b>⚡ 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 𝘍𝘰𝘤𝘶𝘴</b><br>
-  ◦ <i>Scripting, custom UI design, and advanced data management.</i>
+  🌳 <i>Scripting, custom UI design, and advanced data management.</i>
 </p>
 
-<br>
-
 <p align="left">
-  <b>🚀 𝘕𝘦𝘹𝘵 𝘜𝘱</b><br>
-  ◦ <i>C [Low-level architecture control]</i>
+  🍃 <i>C [Low-level architecture control]</i>
 </p>
 
 <br>
 <hr>
 <br>
 
-<p align="center"><b>☄️ ── [ CONNECT WITH ME ] ──</b></p>
+<p align="center"><b> ─── [ CONNECT WITH ME ] ─── </b></p>
 
 <br>
 
@@ -51,7 +47,3 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="45" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/atomiczeus8" target="_blank">
-    <img src="https://img.shields.io/badge/-%23111111?style=square&logo=x&logoColor=white" alt="X" height="45" width="45" />
-  </a>
-</p>
