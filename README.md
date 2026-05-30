@@ -1,25 +1,28 @@
-# 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atomiczeus8/atomiczeus8/main/mambohello.gif" width="160px" alt="Profile Asset" />
+  <img src="light-yagami-death-note.gif" width="220px" style="border-radius: 4px; filter: grayscale(30%) contrast(110%);" alt="Kira Protocol" />
 </p>
 
-<h1 align="center"> ─── [ Zeus ] ─── </h1>
+<h1 align="center">
+  <kbd> SYSTEM.EXE // Z E U S </kbd>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&pause=50&color=00F5D4&center=true&vCenter=true&width=450&height=35&lines=IT'S+JUST+THE+BEGINNING...;IT'S+J%23ST+TH%25+B%40GINNING...;IT'S+JU%24T+THE+BEG%26NNING...;%5B%23%40%24%25%26%2A%21%5D..." alt="Terminal Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&pause=80&color=FF3333&center=true&vCenter=true&width=450&height=35&lines=DELETE.+DELETE.+DELETE...;CREATING+A+NEW+WORLD...;BY+ANY+MEANS+NECESSARY.;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%89%E2%96%91%E2%96%91%5D+91%25" alt="Terminal Terminal" />
 </p>
 
-<p align="center"><i>"Win at all costs."</i></p>
-
----
-
-<p align="center"><b>─── [ SYSTEM ARSENAL ] ───</b></p>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql" alt="Tech Environment" />
+  <ins><i>"Humans are so interesting."</i></ins>
+</p>
+
+<p align="center">─── ❖ ── ✦ ── ❖ ───</p>
+
+<p align="center">⚡ <b>CORE STACK</b> ⚡</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,mysql" alt="Arsenal" />
 </p>
 
 ```text
-🌳 Scripting, custom UI design, and advanced data management.
-🍃 C [Low-level architecture control]
+[EXECUTION ENGINE]
+├── ⚙️ Architecture: Luau, Python, Low-level C controls
+├── 🛡️ Data Ops    : Complex backend systems & high-concurrency memory management
+└── 🖥️ Environment : Advanced UI/UX, customized constraints, absolute runtime control
