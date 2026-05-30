@@ -14,33 +14,4 @@
 
 <hr>
 
-<p align="left"><b>─── [ SYSTEM ARSENAL ] ───</b></p>
-
-<p align="left" style="margin-top: -5px; margin-bottom: 5px;">
-  <img src="https://skillicons.dev/icons?i=py,mysql" alt="Tech Stack" />
-</p>
-
-<p align="left" style="margin-top: -5px; margin-bottom: 0px;">
-  🌳 <i>Scripting, custom UI design, and advanced data management.</i>
-</p>
-<p align="left" style="margin-top: 0px;">
-  🍃 <i>C [Low-level architecture control]</i>
-</p>
-
-<hr>
-
-<p align="center"><b>─── [ CONNECT WITH ME ] ───</b></p>
-
-<p align="center" style="margin-top: 5px;">
-  <a href="https://instagram.com/atomiczeus8" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="42" height="42" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:atomizeus8@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="42" height="42" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/atomiczeus8" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=appveyor&logo=x&logoColor=white" alt="X" height="42" style="border-radius: 10px;" />
-  </a>
-</p>
+<p align="left"><b>─── [ SYSTEM ARSENAL ] ───</b></p
