@@ -41,6 +41,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/atomiczeus8" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X" width="42" height="42" />
+    <img src="https://raw.githubusercontent.com/denton-fl/denton-fl/main/x-logo.png" alt="X" width="42" height="42" style="border-radius: 10px;" />
   </a>
 </p>
