@@ -20,7 +20,10 @@
   <img src="https://skillicons.dev/icons?i=py,mysql" alt="Arsenal" />
 </p>
 
-```text
-CONFIG // 
-  • Core execution  : Python automation & logic scripting
-  • Data storage    : MySQL relational systems
+<p align="center">
+  <samp>
+    <b>CONFIG //</b><br>
+    • Core execution : Python automation & logic scripting<br>
+    • Data storage : MySQL relational systems
+  </samp>
+</p>
