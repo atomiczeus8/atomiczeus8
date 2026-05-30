@@ -14,4 +14,22 @@
 
 <hr>
 
-<p align="left"><b>─── [ SYSTEM ARSENAL ] ───</b></p
+<p align="left"><b>─── [ SYSTEM ARSENAL ] ───</b></p>
+
+<p align="left" style="margin-top: -5px; margin-bottom: 5px;">
+  <img src="https://skillicons.dev/icons?i=py,mysql" alt="Tech Stack" />
+</p>
+
+<p align="left" style="margin-top: -5px; margin-bottom: 0px;">
+  🌳 <i>Scripting, custom UI design, and advanced data management.</i>
+</p>
+<p align="left" style="margin-top: 0px;">
+  🍃 <i>C [Low-level architecture control]</i>
+</p>
+
+<hr>
+
+<p align="center"><b>─── [ CONNECT WITH ME ] ───</b></p>
+
+<p align="center" style="margin-top: 5px;">
+  <a href="https://instagram.
