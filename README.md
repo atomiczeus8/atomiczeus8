@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://twitter.com/atomiczeus8" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X / Twitter" />
   </a>
 </p>
 
