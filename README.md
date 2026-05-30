@@ -14,7 +14,7 @@
 
 <hr>
 
-<p align="left"><b>─── [ SYSTEM ARSENAL ] ───</b></p>
+<p align="center"><b>─── [ SYSTEM ARSENAL ] ───</b></p>
 
 <p align="left" style="margin-top: -5px; margin-bottom: 5px;">
   <img src="https://skillicons.dev/icons?i=py,mysql" alt="Tech Stack" />
@@ -40,7 +40,4 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="42" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/atomiczeus8" target="_blank">
-    <img src="https://img.shields.io/badge/-%23111111?style=for-the-badge&logo=x&logoColor=white&labelColor=%23111111" alt="X" width="42" height="42" style="border-radius: 10px; object-fit: cover;" />
-  </a>
-</p>
+  <a href="https://twitter.
