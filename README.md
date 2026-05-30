@@ -12,9 +12,9 @@
     <td align="left" valign="top" width="350" style="background-color: transparent;">
       <br>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="45" height="45">
       </p>
       <br>
       <blockquote style="font-family: monospace; padding: 15px; background: rgba(205, 228, 255, 0.15); border-left: 4px solid #2d5b8c; border-radius: 6px;">
@@ -31,23 +31,14 @@
 
 ### 🛠️ Core Stack Details
 
-* **Python** — Automation, core backend logic, and rapid scripting.
-* **MySQL & Workbench** — Database architecture, relational schemas, and query optimization.
+* **Python** — Fundamental programming structures, core logic, loops, and data handling.
+* **MySQL & Workbench** — Database design, relational schemas, and writing structured queries.
 * **Learning C** — Diving deep into memory management, pointers, and low-level execution.
 
 <hr>
 
 ### ⏳ Live Terminal Simulation
 
-```c
-#include <stdio.h>
-#include <unistd.h>
-
-int main() {
-    char status[] = "Upgrading Brain Firmware...";
-    while(1) {
-        printf("\r%s [ █ ]", status); fflush(stdout); usleep(500000);
-        printf("\r%s [ █ ]", status); fflush(stdout); usleep(500000);
-    }
-    return 0;
-}
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F8F8F2&background=0D111700&center=true&vCenter=true&width=500&lines=Upgrading+Brain+Firmware...+%5B+%E2%96%88+%5D;Upgrading+Brain+Firmware...+%5B+%5D" alt="Typing Animation" />
+</p>
