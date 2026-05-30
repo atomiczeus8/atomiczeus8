@@ -21,15 +21,17 @@
 
 ---
 
-### 🌐 Connect With Me
+<h3 align="center">🌐 Connect With Me</h3>
 
-<p align="left">
-  <a href="https://instagram.com/atomiczeus8" target="_blank" style="text-decoration: none; margin-right: 12px;">
+<p align="center">
+  <a href="https://instagram.com/atomiczeus8" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48" />
   </a>
-  <a href="mailto:atomizeus8@gmail.com" target="_blank" style="text-decoration: none; margin-right: 12px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:atomizeus8@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/atomiczeus8" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-%23111111?style=square&logo=x&logoColor=white" alt="X" height="48" width="48" />
   </a>
