@@ -34,3 +34,11 @@
 * **Python** — Fundamental programming structures, core logic, loops, and data handling.
 * **MySQL & Workbench** — Database design, relational schemas, and writing structured queries.
 * **Learning C** — Diving deep into memory management, pointers, and low-level execution.
+
+<hr>
+
+### Current Status
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F8F8F2&background=0D111700&center=true&vCenter=true&width=500&lines=Upgrading+Brain+Firmware...+%5B+%E2%96%88+%5D;Upgrading+Brain+Firmware...+%5B+%5D" alt="Typing Animation" />
+</p>
