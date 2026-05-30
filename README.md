@@ -32,4 +32,15 @@
 <p align="center"><b>─── [ CONNECT WITH ME ] ───</b></p>
 
 <p align="center" style="margin-top: 5px;">
-  <a href="https://instagram.
+  <a href="https://instagram.com/atomiczeus8" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="42" height="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:atomizeus8@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="42" height="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/atomiczeus8" target="_blank">
+    <img src="https://img.shields.io/badge/-%23111111?style=for-the-badge&logo=x&logoColor=white&labelColor=%23111111" alt="X" width="42" height="42" style="border-radius: 10px; object-fit: cover;" />
+  </a>
+</p>
