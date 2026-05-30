@@ -40,4 +40,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="42" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.
+  <a href="https://twitter.com/atomiczeus8" target="_blank">
+    <img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" alt="X" width="42" height="42" style="border-radius: 20%;" />
+  </a>
+</p>
