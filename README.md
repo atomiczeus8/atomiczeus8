@@ -8,16 +8,17 @@
 </p>
 <p align="center"><i>"Win at all costs."</i></p>
 ---
-### 🪐 SYSTEM ARSENAL
+## 🪐 ── [ SYSTEM ARSENAL ] ──
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,mysql" alt="Tech Stack" />
 </p>
-**// Current Focus**
-* Scripting, custom UI design, and advanced data management.
-**// Next Up**
-* C ⚡ *(Low-level architecture control)*
+### ⚡ 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 𝘍𝘰𝘤𝘶𝘴
+◦ *Scripting, custom UI design, and advanced data management.*
+### 🚀 𝘕𝘦𝘹𝘵 𝘜𝘱
+◦ *C [Low-level architecture control]*
 ---
-### ☄️ CONNECT WITH ME
+## ☄️ ── [ CONNECT WITH ME ] ──
+<br>
 
 | [![](https://skillicons.dev/icons?i=instagram)](https://instagram.com/atomiczeus8) | [![](https://skillicons.dev/icons?i=gmail)](mailto:atomizeus8@gmail.com) | [![](https://img.shields.io/badge/-%23111111?style=square&logo=x&logoColor=white)](https://twitter.com/atomiczeus8) |
 | :--- | :--- | :--- |
