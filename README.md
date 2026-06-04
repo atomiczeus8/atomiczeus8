@@ -19,7 +19,7 @@
       <br>
       <blockquote style="font-family: monospace; padding: 15px; background: rgba(205, 228, 255, 0.15); border-left: 4px solid #2d5b8c; border-radius: 6px;">
         <strong>Status: /learning C... _</strong><br>
-        <span style="color: #6a737d;">// CURRENT PROJECT: zandacross</span><br>
+        <span style="color: #6a737d;">// UPCOMING PROJECT: NovaDrive</span><br>
         &lt;_ // Python is cool &lt;_<br>
         &lt;_ // SQL rules! &lt;_
       </blockquote>
