@@ -18,7 +18,7 @@
       </p>
       <br>
       <blockquote style="font-family: monospace; padding: 15px; background: rgba(205, 228, 255, 0.15); border-left: 4px solid #2d5b8c; border-radius: 6px;">
-        <strong>Status: /learning C... _</strong><br>
+        <strong>Status: /learning C++... _</strong><br>
         <span style="color: #6a737d;">// UPCOMING PROJECT: NovaDrive</span><br>
         &lt;_ // Python is cool &lt;_<br>
         &lt;_ // SQL rules! &lt;_
@@ -33,7 +33,7 @@
 
 * **Python** — Fundamental programming structures, core logic, loops, and data handling.
 * **MySQL & Workbench** — Database design, relational schemas, and writing structured queries.
-* **Learning C** — Diving deep into memory management, pointers, and low-level execution.
+* **C** — Diving deep into memory management, pointers, and low-level execution.
 
 <hr>
 
