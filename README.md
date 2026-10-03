@@ -17,7 +17,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="40" height="40" style="margin-right: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 5px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
       </p>
       <br>
       <blockquote style="font-family: monospace; padding: 15px; background: rgba(205, 228, 255, 0.15); border-left: 4px solid #2d5b8c; border-radius: 6px;">
@@ -36,8 +36,8 @@
 * **Python** — Fundamental programming structures, core logic, loops, and data handling.
 * **MySQL & Workbench** — Database design, relational schemas, and writing structured queries.
 * **C / C++** — Diving deep into memory management, pointers, and object-oriented programming.
-* **Java** — Object-oriented principles and application development.
-* **HTML & CSS** — Building and styling web layouts.
+* **HTML & CSS** — Building and styling fluid, responsive web layouts.
+* **JavaScript** — Adding interactive elements, scroll-driven animations, and dynamic logic to the frontend.
 
 <hr>
 
