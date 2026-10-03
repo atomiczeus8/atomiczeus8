@@ -22,9 +22,13 @@
       </p>
       <br>
       <blockquote style="font-family: monospace; padding: 15px; background: rgba(205, 228, 255, 0.15); border-left: 4px solid #2d5b8c; border-radius: 6px;">
-        <strong>Status: /learning C++ and CSS... _</strong><br>
+        <strong>Status: /learning C++, CSS, & JS... _</strong><br>
         &lt;_ // Python is cool &lt;_<br>
-        &lt;_ // SQL rules! &lt;_
+        &lt;_ // SQL rules! &lt;_<br>
+        &lt;_ // C builds character &lt;_<br>
+        &lt;_ // C++ objectifies everything &lt;_<br>
+        &lt;_ // HTML/CSS making it pretty &lt;_<br>
+        &lt;_ // JS brings it to life &lt;_
       </blockquote>
     </td>
   </tr>
