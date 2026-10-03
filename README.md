@@ -6,20 +6,22 @@
   <tr>
     <td align="center" valign="middle" width="300">
       <br>
-      <img src="aemeath-ames.gif" width="240" alt="Zeus Workspace Chibi">
+      <img src="mitya.gif" width="240" alt="Zeus Workspace Chibi">
       <br><br>
     </td>
     <td align="left" valign="top" width="350" style="background-color: transparent;">
       <br>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="45" height="45">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="40" height="40" style="margin-right: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
       </p>
       <br>
       <blockquote style="font-family: monospace; padding: 15px; background: rgba(205, 228, 255, 0.15); border-left: 4px solid #2d5b8c; border-radius: 6px;">
-        <strong>Status: /learning C++... _</strong><br>
-        <span style="color: #6a737d;">// UPCOMING PROJECT: NovaDrive</span><br>
+        <strong>Status: /learning C++ and CSS... _</strong><br>
         &lt;_ // Python is cool &lt;_<br>
         &lt;_ // SQL rules! &lt;_
       </blockquote>
@@ -33,7 +35,9 @@
 
 * **Python** — Fundamental programming structures, core logic, loops, and data handling.
 * **MySQL & Workbench** — Database design, relational schemas, and writing structured queries.
-* **C** — Diving deep into memory management, pointers, and low-level execution.
+* **C / C++** — Diving deep into memory management, pointers, and object-oriented programming.
+* **Java** — Object-oriented principles and application development.
+* **HTML & CSS** — Building and styling web layouts.
 
 <hr>
 
